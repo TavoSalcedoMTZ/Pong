@@ -1,7 +1,7 @@
 # Pong
 Juego Pong Creado Para Cuarto Parcial de programacion
 
-En este programa lo que hice fue:
+En este programa lo que hice fue:(Descripcion Breve)
 
 1ro Creacion de Todas las figuras utilizadas dentro del Juego Pongo las 2 raquetas, la pelota, las lineas divisoras de pantalla, y los Scores
 
